@@ -3,11 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      
-      <class name="basics.Keys"/>
-      <class name="basics.BaseTest"/>
-      <class name="basics.Mouseactions"/>
-      <class name="basics.Multipleclass"/>
+     
+      <class name="selenium.Alerts"/>
+      <class name="selenium.assignment"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test ABCDdfgfdsfgd -->
 </suite> <!-- Suite -->
